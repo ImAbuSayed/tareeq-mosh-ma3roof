@@ -13,6 +13,7 @@
 | Lyric Writing Date | May 01, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/tareeq-mosh-ma3roof/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Sync Licensing for Tareeq Mosh Ma3roof](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
